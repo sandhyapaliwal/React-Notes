@@ -15,7 +15,6 @@
 - [Event Delegation in React](#event-delegation-in-react)
 - [useRef for Direct DOM Events](#useref-for-direct-dom-events)
 - [Custom Event Hooks](#custom-event-hooks)
-- [Best Practices](#best-practices)
 
 ---
 
